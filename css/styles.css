@@ -63,12 +63,8 @@ body {
   border-bottom: solid 2px var(--ocean);
 }
 
-.contacts:hover {
+.contacts:hover .contacts:focus {
   color: var(--ocean);
-}
-
-header {
-  border-bottom: 1px solid var(--cornflower);
 }
 
 button {
