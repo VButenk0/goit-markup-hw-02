@@ -77,7 +77,7 @@ body {
 }
 
 .hero-image {
-  color: var(--navy-blue);
+  background-color: var(--navy-blue);
 }
 
 .title {
